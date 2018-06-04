@@ -1,4 +1,2 @@
 # ParserXML
-Parser XML without DOM Parser
-
-/!\ May not work with everything
+Parser XML in JS without DOM Parse
